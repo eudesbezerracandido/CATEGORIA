@@ -20,7 +20,7 @@ FREEDDONS CATEGORIA
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red] SÉRIES [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red] SERIE [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/7.jpeg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
