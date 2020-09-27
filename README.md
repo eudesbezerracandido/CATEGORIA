@@ -24,14 +24,6 @@ FREEDDONS CATEGORIA
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
   
-<channels>
-<channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LÁ CASA DE PAPEL [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/SERIES-EDDONS/master/README.md</externallink>
-<thumbnail>https://ia803203.us.archive.org/26/items/fanart-freeddons/7.jpeg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>
-
 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
