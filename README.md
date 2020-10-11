@@ -65,6 +65,19 @@ FREEDDONS CATEGORIA
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<     
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] SANDY  &  JUNIOR INCONCERT [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<thumbnail>https://2.bp.blogspot.com/-xS4OR_hUNWA/Ty7ta7jfmhI/AAAAAAAAANI/3qTjhBIYFxI/s1600/2011-12-06+12.11.26+blog.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>
+
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    
  
 
 
