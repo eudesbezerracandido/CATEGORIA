@@ -69,7 +69,7 @@ FREEDDONS CATEGORIA
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DVD'S MUSICAIS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink>https://github.com/eudesbezerracandido/DVD-S-MUSICAIS</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/DVD-S-MUSICAIS/main/README.md</externallink>
 <thumbnail>https://planetacountry.com.br/wp-content/uploads/2018/08/MUSIC-PLANETACOUNTRY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info></info>
