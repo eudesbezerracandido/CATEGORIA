@@ -80,28 +80,7 @@ FREEDDONS CATEGORIA
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
-<channels>
-<channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] FILMES EVANGÉLICOS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES-EVANGELICOS/main/README.md</externallink>
-<thumbnail>https://static.wixstatic.com/media/bb21f7_c6e88c7f4f7a40adafd9a3ef189469e9~mv2.jpg/v1/fill/w_900,h_600,al_c,q_90/bb21f7_c6e88c7f4f7a40adafd9a3ef189469e9~mv2.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Tão leve
-Pode me soprar eu nem sei pra onde vou
-Me leve
-A este lugar que o Teu filho preparou
-Tão leve
-Pode me tocar eu não sinto mais dor
-Me leve
-Ao dia que o Teu coração cantou
-Pode entrar, eu te conheço</info>
 
-[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<      
- 
  
 
 
