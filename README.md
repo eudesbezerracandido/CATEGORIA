@@ -44,6 +44,20 @@ FREEDDONS CATEGORIA
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ANIME ADULTO [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://www.primecursos.com.br/blog/wp-content/uploads/2015/11/anime_and_shonen_jump_protagonists_by_supersaiyancrash-d6mi3ni1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>
+[COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
  
 <channels>
 <channel>
