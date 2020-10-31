@@ -35,6 +35,7 @@ FREEDDONS CATEGORIA
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DESENHOS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DESENHOS/main/README.md</externallink>
+  <externallink></externallink>
 <thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/6.jpeg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>
