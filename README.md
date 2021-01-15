@@ -62,7 +62,7 @@ FREEDDONS CATEGORIA
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white]   FISH  TV   [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FISH-TV/main/README.md</externallink>
-<thumbnail>https://www.fishtv.com/public/facebook-fishtv.jpg</thumbnail>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnhrgl3vA6RsCnrqMaFcwZoAyvFkCON0vQcxvo10vQ=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na Fish TV você encontra a melhor programação da pesca esportiva, dica e testes de equipamentos de pesca, peixes grandes e pesqueiros.</info>
 
