@@ -4,9 +4,9 @@ FREEDDONS CATEGORIA
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/8.jpeg</thumbnail>
+<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/zvf2knks_o.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES/master/README.md</externallink>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 
 
@@ -20,8 +20,8 @@ FREEDDONS CATEGORIA
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SERIES [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SERIES-EDDONS/master/README.md</externallink>
-<thumbnail>https://ia803203.us.archive.org/26/items/fanart-freeddons/7.jpeg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/vonuMrT5_o.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
   
 
@@ -35,8 +35,8 @@ FREEDDONS CATEGORIA
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DESENHOS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DESENHOS/main/README.md</externallink>
-<thumbnail>https://ia801404.us.archive.org/31/items/fanart-freeddons/6.jpeg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://ia801406.us.archive.org/27/items/fanart_20210211/ZpzvHewp_o.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
@@ -46,10 +46,10 @@ FREEDDONS CATEGORIA
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DVD'S MUSICAIS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white]  MUSICAIS [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DVD-S-MUSICAIS/main/README.md</externallink>
-<thumbnail>https://planetacountry.com.br/wp-content/uploads/2018/08/MUSIC-PLANETACOUNTRY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/hn5sRRsv_o.jpg</thumbnail>
+<fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info></info>
 
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
