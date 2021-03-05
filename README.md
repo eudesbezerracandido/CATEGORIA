@@ -19,7 +19,7 @@ FREEDDONS CATEGORIA
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SERIES [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/SERIES-EDDONS/master/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/SERIES---EDDONS/main/README.md</externallink>
 <thumbnail>https://ia601406.us.archive.org/27/items/fanart_20210211/vonuMrT5_o.jpg</thumbnail>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
 <info>
