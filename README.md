@@ -60,7 +60,7 @@ FREEDDONS CATEGORIA
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] JAGUARIBE WEB RÁDIO RECIFE/PE [/COLOR][B][COLOR white] TOP [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] JAGUARIBE WEB RÁDIO RECIFE/PE [/COLOR][COLOR white] TOP [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/Jaguaribe-web-r-dio/main/README.md</externallink>
 <thumbnail>https://ia601403.us.archive.org/34/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</thumbnail>
 <fanart>https://ia801406.us.archive.org/27/items/fanart_20210211/fanart.jpg</fanart>
