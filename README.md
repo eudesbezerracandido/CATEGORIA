@@ -85,11 +85,11 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] TOKUSATSU  [/COLOR][COLOR white] REDE DE CANAIS [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] TOKUSATSU  [/COLOR][COLOR white] HÉROIS [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/TOKUSATSU/main/README.md</externallink>
-<thumbnail></thumbnail>
-<fanart>https://ia601405.us.archive.org/34/items/v-mix-capture-07-julho-2020-20-21-21/vMix%20Capture%2007%20julho%202020%2020-21-21.png</fanart>
-<info></info>
+<thumbnail>https://ia801501.us.archive.org/22/items/toku_20220108/tokusatsu.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/22/items/toku_20220108/toku.png</fanart>
+<info>Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo Hérois.</info>
 </channel>
 </channels>
 
