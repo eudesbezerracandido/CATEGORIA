@@ -95,6 +95,18 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
 
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] RELIQUIAS DO ARCHIVE DIRETO [/COLOR][COLOR white] FULL HD [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
+
 
 
 
