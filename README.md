@@ -111,7 +111,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] VALE A PENA VER DE NOVO [/COLOR][COLOR white] [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/Novelas-Antigas/main/README.md</externallink>
-<thumbnail>https://ia601409.us.archive.org/35/items/vale_20220502/vale-a-pena-ver-denovo-logotipo-0119-1400x800-1.jpg</thumbnail>
+<thumbnail>https://ia801409.us.archive.org/35/items/vale_20220502/vale-a-pena-ver-denovo-logotipo-0119-1400x800-1.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
