@@ -110,7 +110,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] NOVELAS  ANTIGAS [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/Novelas-Antigas/main/README.md</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
