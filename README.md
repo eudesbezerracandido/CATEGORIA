@@ -110,7 +110,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] NOVELAS  ANTIGAS [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/Vamp-Completo/main/README.md</externallink>
 <thumbnail>https://ia601504.us.archive.org/21/items/novelas_202205/30-melhores-novelas-anos-80-e-90.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
