@@ -109,9 +109,9 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white]NOVELAS ANTIGAS [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] NOVELAS ANTIGAS [/COLOR][COLOR white] NOVELAS [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/Novelas-Antigas/main/README.md</externallink>
-<thumbnail>https://ia601509.us.archive.org/22/items/internet-archive_202202/internet-archive.jpg</thumbnail>
+<thumbnail>https://ia601403.us.archive.org/2/items/image-1_202205/image-1.jpg</thumbnail>
 <fanart>https://ia601407.us.archive.org/21/items/qw-o-3mxw/QwO3mxw.jpg</fanart>
 <info></info>
 </channel>
