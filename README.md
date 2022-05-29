@@ -54,7 +54,7 @@ FREEDDONS CATEGORIA
 
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
 </channel>
-</channels>
+</channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
