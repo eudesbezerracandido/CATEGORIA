@@ -49,7 +49,7 @@ FREEDDONS CATEGORIA
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DVD'S MÚSICAIS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DVD-S-MUSICAIS/main/README.md</externallink>
 <thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/hn5sRRsv_o.jpg</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg </fanart>
 <info></info>
 
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
