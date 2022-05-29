@@ -99,7 +99,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] FILMES DO ARCHIVE DIRETO [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/RELIQUIAS-DO-ARCHIVE-DIRETO/main/README.md</externallink>
-<thumbnail>https://ia601509.us.archive.org/22/items/internet-archive_202202/internet-archive.jpg</thumbnail>
+<thumbnail>https://ia902200.us.archive.org/33/items/internet-archive_202202/internet-archive.jpg</thumbnail>
 <fanart>https://ia601407.us.archive.org/21/items/qw-o-3mxw/QwO3mxw.jpg</fanart>
 <info></info>
 </channel>
