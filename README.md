@@ -9,7 +9,6 @@ FREEDDONS CATEGORIA
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 
-
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
@@ -24,7 +23,6 @@ FREEDDONS CATEGORIA
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
   
-
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
@@ -42,9 +40,7 @@ FREEDDONS CATEGORIA
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -93,7 +89,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 
 
