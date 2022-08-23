@@ -8,7 +8,6 @@
 <thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/nX99stK0_o.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
-
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
@@ -21,8 +20,7 @@
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/SERIES---EDDONS/main/README.md</externallink>
 <thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/vonuMrT5_o.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
-<info>
-  
+<info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
