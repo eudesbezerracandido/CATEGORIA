@@ -1,5 +1,5 @@
 # CATEGORIA
-FREEDDONS CATEGORIA
+
 
 <channels>
 <channel>
