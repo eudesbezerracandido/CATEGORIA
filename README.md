@@ -95,7 +95,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <externallink></externallink>
 <thumbnail>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58.jpeg</thumbnail>
 <fanart>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58%20%281%29.jpeg</fanart>
-<info></info>
+<info> Eu NANDO PINHEIRO com 22 anos de comunicação, Ator profissional, locutor publicitário, Dublador e Palestrante dono de uma das vozes mais conhecidas e procuradas do Brasil, com minha experiência empreendedora hoje me tornou referência no Youtube com o maior canal de Motivação brasileiro, com mais de 1,5 milhão de seguidores, mais de 10 milhões de compartilhamentos e mais de 100 milhões de visualizações na plataforma. hoje Peço seu VOTO para me tornar seu Deputado Federal pelo estado de São Paulo para juntos criarmos uma Pec. de Lei para Legalização do IPTV no Brasil.</info>
 </channel>
 </channels>
 
