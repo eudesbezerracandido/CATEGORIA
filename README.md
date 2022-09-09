@@ -87,7 +87,17 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DEMOCRACIA PEC. DE LEI LIBERAR IPTV NO BRASIL [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58.jpeg</thumbnail>
+<fanart>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58%20%281%29.jpeg</fanart>
+<info></info>
+</channel>
+</channels>
 
 
 
