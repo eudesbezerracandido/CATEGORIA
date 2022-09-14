@@ -91,7 +91,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] NANDO PINHEIRO/SP  VOTE 2223 [/COLOR][COLOR white][/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DEPUTADO DE SÃO PAULO  VOTE 2223 [/COLOR][COLOR white][/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/NANDO-PINHEIRO-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58.jpeg</thumbnail>
 <fanart>https://ia601506.us.archive.org/15/items/nando_202209/WhatsApp%20Image%202022-09-09%20at%2011.13.58%20%281%29.jpeg</fanart>
