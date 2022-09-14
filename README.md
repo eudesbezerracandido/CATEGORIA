@@ -99,6 +99,20 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] DEPUTADOS DE PERNAMBUCO [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink></externallink>
+<thumbnail>https://ia801406.us.archive.org/32/items/11611/WhatsApp%20Image%202022-09-14%20at%2002.32.54%20%281%29.jpeg</thumbnail>
+<fanart>https://ia801505.us.archive.org/6/items/1161_20220914/WhatsApp%20Image%202022-09-14%20at%2002.49.02.jpeg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
 
 
 
