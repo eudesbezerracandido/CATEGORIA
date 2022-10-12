@@ -89,7 +89,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-channels>
+<channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] JAZZ INSTRUMENTAL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/JAZZ-INSTRUMENTAL-UPDATE/main/README.md</externallink>
