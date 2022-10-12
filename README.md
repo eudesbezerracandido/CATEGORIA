@@ -92,7 +92,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 channels>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] JAZZ INSTRUMENTAL [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I] </name>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/JAZZ-INSTRUMENTAL-UPDATE/main/README.md</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/34P4f0I1hI9MHfiDa32iOquslrR.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
