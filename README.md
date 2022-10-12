@@ -96,7 +96,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <thumbnail>https://www.themoviedb.org/t/p/original/34P4f0I1hI9MHfiDa32iOquslrR.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
-[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
+[COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
 </channel>
 </channels>
 
