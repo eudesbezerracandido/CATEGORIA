@@ -52,7 +52,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-<channels>
+<channels> 
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] CANAL RICOS TV WEB  [/COLOR][COLOR white] STREAMING [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CANAL-RICOS-TV-WEB/main/README.md</externallink>
