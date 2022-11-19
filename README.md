@@ -42,8 +42,8 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] WEB RÁDIOS RECIFE/PE [/COLOR][COLOR white] WEB STREAMING [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/eudesbezerracandido/Jaguaribe-web-r-dio/main/README.md</externallink>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] WEB RÁDIOS WEB RECIFE/PE [/COLOR][COLOR white] STREAMING [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/WEB-RADIO-UPDATE/main/README.md</externallink>
 <thumbnail>https://ia902305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</thumbnail>
 <fanart>https://ia802305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</fanart>
 <info>Jaguaribe web Rádio tem o objetivo principal é oferecer a todos os ouvintes músicas de qualidade e entretenimento.</info>
