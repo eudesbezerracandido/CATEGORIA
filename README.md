@@ -29,7 +29,7 @@
 
 <channels> 
 <channel>
-<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DESENHOS [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DESENHOS & ANIMES [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/DESENHOS/main/README.md</externallink>
 <thumbnail>https://ia903402.us.archive.org/34/items/fanart_20210211/ZpzvHewp_o.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
