@@ -119,7 +119,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RUNTIME TV [/COLOR][B][COLOR white] TV ONLINE [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/RUNTIMETV/main/README.md</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmq6UdojAJ0wQrx4CIUDpGCupYZWntPzF3fiVexcoovtv4vT72xEenwSUlMCeoCOYVkVc&usqp=CAU</thumbnail>
+<thumbnail>https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos-1000x600.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
