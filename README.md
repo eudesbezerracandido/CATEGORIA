@@ -5,7 +5,7 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FILMES [/COLOR][B][COLOR white] TORRENT [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/FILMES/master/README.md</externallink>
-<thumbnail>https://ia803402.us.archive.org/34/items/fanart_20210211/nX99stK0_o.jpg</thumbnail>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/de9f3ced.jpg</thumbnail>
 <fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
 <info>
 [COLOR yellow]|[/COLOR] - ADICIONADOS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info>
@@ -56,8 +56,8 @@
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] CANAL RICOS TV WEB  [/COLOR][COLOR white] STREAMING [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CANAL-RICOS-TV-WEB/main/README.md</externallink>
-<thumbnail>https://ia804608.us.archive.org/6/items/logo-canal-ricos-fundo-branco/LOGO%20CANAL%20RICOS%20FUNDO%20BRANCO.png</thumbnail>
-<fanart>https://ia804605.us.archive.org/5/items/v-mix-capture-07-julho-2020-20-21-21/vMix%20Capture%2007%20julho%202020%2020-21-21.png</fanart>
+<thumbnail></thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>CANAL RICOS perus/SP, Maiores informações, Dúvidas e custos, por favor entrar em contato conosco.
 F: (11) 3918-8581 / (11) 98870-0735</info>
 </channel>
@@ -70,7 +70,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR white] TOKUSATSU HÉROIS [/COLOR][COLOR white] TORRENT [/COLOR][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/TOKUSATSU/main/README.md</externallink>
 <thumbnail>https://ia804605.us.archive.org/24/items/toku_20220108/tokusatsu.jpg</thumbnail>
-<fanart>https://ia804605.us.archive.org/24/items/toku_20220108/1-EUin3-RJHu-Pv-ZBQS9-2-Lsfw.jpg</fanart>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Tokusatsu é um termo em japonês para filmes ou séries live-action que fazem um uso forte de efeitos especiais. Apesar de ser um termo japonês, hoje em dia, também refere-se as séries que seguem a mesma linha de produção e conceito ao redor do mundo Hérois.</info>
 </channel>
 </channels>
@@ -106,8 +106,8 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] PLUTO TV [/COLOR][B][COLOR white] TV ONLINE [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/PLUTOTV/main/README.md</externallink>
-<thumbnail>https://ia902706.us.archive.org/18/items/pluto-tv_202307/PLUTO%20TV.PNG</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/37a916fc.png</thumbnail>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
 </channel>
@@ -120,7 +120,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RUNTIME TV [/COLOR][B][COLOR white] TV ONLINE [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/RUNTIMETV/main/README.md</externallink>
 <thumbnail>https://revistalivemarketing.com.br/wp-content/uploads/2023/07/Runtime-oferece-TV-gratuita-em-streaming-para-todos-os-gostos-1000x600.jpg</thumbnail>
-<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<fanart>https://ia801201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
 </channel>
