@@ -81,7 +81,7 @@ F: (11) 3918-8581 / (11) 98870-0735</info>
 <channel>
 <name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] PLUTO TV [/COLOR][B][COLOR white] TV ONLINE [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/PLUTOTV/main/README.md</externallink>
-<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/37a916fc.png</thumbnail>
+<thumbnail>https://ia600206.us.archive.org/27/items/plutotv_202403/unnamed.png</thumbnail>
 <fanart>https://ia801201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> 
 [COLOR yellow]|[/COLOR] - ADICIONADAS RECENTEMENTE - [COLOR yellow]|[/COLOR]</info> 
